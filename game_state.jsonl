@@ -1,16 +1,4 @@
-{"timestamp": "19:03:28.991", "elapsed_s": 0, "frame": 60, "screen_size": [1280, 720]}
-{"timestamp": "19:03:29.101", "elapsed_s": 0, "frame": 120, "screen_size": [1280, 720]}
-{"timestamp": "19:03:29.196", "elapsed_s": 0, "frame": 180, "screen_size": [1280, 720]}
-{"timestamp": "19:03:29.316", "elapsed_s": 0, "frame": 240, "screen_size": [1280, 720]}
-{"timestamp": "19:03:29.423", "elapsed_s": 0, "frame": 300, "screen_size": [1280, 720]}
-{"timestamp": "19:03:29.525", "elapsed_s": 0, "frame": 360, "screen_size": [1280, 720]}
-{"timestamp": "19:03:29.631", "elapsed_s": 0, "frame": 420, "screen_size": [1280, 720]}
-{"timestamp": "19:03:29.738", "elapsed_s": 1, "frame": 480, "screen_size": [1280, 720]}
-{"timestamp": "19:03:29.839", "elapsed_s": 1, "frame": 540, "screen_size": [1280, 720]}
-{"timestamp": "19:03:29.943", "elapsed_s": 1, "frame": 600, "screen_size": [1280, 720]}
-{"timestamp": "19:03:30.051", "elapsed_s": 1, "frame": 660, "screen_size": [1280, 720]}
-{"timestamp": "19:03:30.141", "elapsed_s": 1, "frame": 720, "screen_size": [1280, 720]}
-{"timestamp": "19:03:30.235", "elapsed_s": 1, "frame": 780, "screen_size": [1280, 720]}
-{"timestamp": "19:03:30.328", "elapsed_s": 1, "frame": 840, "screen_size": [1280, 720]}
-{"timestamp": "19:03:30.427", "elapsed_s": 1, "frame": 900, "screen_size": [1280, 720]}
-{"timestamp": "19:03:30.515", "elapsed_s": 1, "frame": 960, "screen_size": [1280, 720]}
+{"timestamp": "19:33:53.223", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "19:33:54.190", "elapsed_s": 2, "frame": 120, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "19:33:55.156", "elapsed_s": 3, "frame": 180, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "19:33:56.122", "elapsed_s": 4, "frame": 240, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
