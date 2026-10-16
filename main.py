@@ -15,7 +15,7 @@ def main():
     while running:
         log_state()
         dt = clock.tick(60) / 1000
-        print(dt)
+
 
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
@@ -23,6 +23,7 @@ def main():
 
         screen.fill("black")
         player.draw(screen)
+        player.update(dt)
         pygame.display.flip()
 
 
